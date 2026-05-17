@@ -1,5 +1,4 @@
-\# Inventario CI/CD
-
+\## Inventario CI/CD
 
 
 Proyecto de laboratorio para la asignatura \*\*Gestión y Configuración del Software\*\*  
@@ -19,8 +18,6 @@ Sistema web de inventario desarrollado con Node.js + Express (backend) y React +
 
 
 \## Tecnologías
-
-
 
 \- \*\*Backend:\*\* Node.js, Express, Jest, Supertest
 
@@ -71,8 +68,6 @@ inventario-ci-cd/
 
 \## Instalación
 
-
-
 \### Backend
 
 ```bash
@@ -84,8 +79,6 @@ npm install
 npm start
 
 ```
-
-
 
 \### Frontend
 
@@ -114,7 +107,6 @@ cd backend
 npm test
 
 ```
-
 
 
 \### Frontend
