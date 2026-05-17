@@ -145,13 +145,13 @@ npm test -- --run
 
 
 
-\## Autor
+\## Autores
 
 
 
-Hector Gonzalez Vera  
+Hector Gonzalez Vera
 
-Universidad de Guayaquil — 2025
+Universidad de Guayaquil — 2026
 
 
 
