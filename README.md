@@ -6,7 +6,7 @@ Proyecto de laboratorio para la asignatura \*\*Gestión y Configuración del Sof
 
 Universidad de Guayaquil — Carrera de Ingeniería de Software  
 
-Año lectivo 2025-2026
+Año lectivo 2026-2027
 
 
 
