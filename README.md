@@ -1,34 +1,30 @@
-\
+
 ## Inventario CI/CD
 
 
-Proyecto de laboratorio para la asignatura \*\*Gestión y Configuración del Software\*\*  
+Proyecto de laboratorio para la asignatura
+
+**Gestión y Configuración del Software**  
 
 Universidad de Guayaquil — Carrera de Ingeniería de Software  
 
 Año lectivo 2026-2027
 
 
-\
 ## Descripción
-
-
 
 Sistema web de inventario desarrollado con Node.js + Express (backend) y React + Vite (frontend), con pipeline completo de CI/CD usando GitHub Actions.
 
 
-\
 ## Tecnologías
 
-\- \*\*Backend:\*\* Node.js, Express, Jest, Supertest
+-**Backend:** Node.js, Express, Jest, Supertest
 
-\- \*\*Frontend:\*\* React, Vite, Vitest, Testing Library
+-**Frontend:** React, Vite, Vitest, Testing Library
 
-\- \*\*CI/CD:\*\* GitHub Actions
+-**CI/CD:** GitHub Actions
 
 
-
-\
 ## Estructura del proyecto
 
 inventario-ci-cd/
@@ -68,10 +64,8 @@ inventario-ci-cd/
 └── deploy.yml
 
 
-\
 ## Instalación
 
-\
 ### Backend
 
 ```bash
@@ -84,7 +78,6 @@ npm start
 
 ```
 
-\
 ### Frontend
 
 ```bash
@@ -98,13 +91,8 @@ npm run dev
 ```
 
 
-
-\
 ## Pruebas
 
-
-
-\
 ### Backend
 
 ```bash
@@ -116,7 +104,6 @@ npm test
 ```
 
 
-\
 ### Frontend
 
 ```bash
@@ -127,12 +114,7 @@ npm test -- --run
 
 ```
 
-
-
-\
 ## Pipeline CI/CD
-
-
 
 | Workflow | Descripción |
 
@@ -145,8 +127,6 @@ npm test -- --run
 | Deploy (Simulado) | Se activa cuando ambos CI pasan |
 
 
-
-\
 ## Autores
 
 Hector Gonzalez Vera - Walter Bernardi Correa
