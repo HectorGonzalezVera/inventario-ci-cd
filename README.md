@@ -145,13 +145,13 @@ npm test -- --run
 
 
 
-\## Autores
+\
+## Autores
 
-
-
-Hector Gonzalez Vera
+Hector Gonzalez Vera - Walter Bernardi Correa
 
 Universidad de Guayaquil — 2026
+
 
 
 
