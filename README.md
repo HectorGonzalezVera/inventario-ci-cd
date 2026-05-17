@@ -1,4 +1,5 @@
-\## Inventario CI/CD
+\
+## Inventario CI/CD
 
 
 Proyecto de laboratorio para la asignatura \*\*Gestión y Configuración del Software\*\*  
@@ -8,16 +9,16 @@ Universidad de Guayaquil — Carrera de Ingeniería de Software
 Año lectivo 2026-2027
 
 
-
-\## Descripción
+\
+## Descripción
 
 
 
 Sistema web de inventario desarrollado con Node.js + Express (backend) y React + Vite (frontend), con pipeline completo de CI/CD usando GitHub Actions.
 
 
-
-\## Tecnologías
+\
+## Tecnologías
 
 \- \*\*Backend:\*\* Node.js, Express, Jest, Supertest
 
@@ -27,7 +28,8 @@ Sistema web de inventario desarrollado con Node.js + Express (backend) y React +
 
 
 
-\## Estructura del proyecto
+\
+## Estructura del proyecto
 
 inventario-ci-cd/
 
@@ -66,9 +68,11 @@ inventario-ci-cd/
 └── deploy.yml
 
 
-\## Instalación
+\
+## Instalación
 
-\### Backend
+\
+### Backend
 
 ```bash
 
@@ -80,7 +84,8 @@ npm start
 
 ```
 
-\### Frontend
+\
+### Frontend
 
 ```bash
 
@@ -94,11 +99,13 @@ npm run dev
 
 
 
-\## Pruebas
+\
+## Pruebas
 
 
 
-\### Backend
+\
+### Backend
 
 ```bash
 
@@ -109,7 +116,8 @@ npm test
 ```
 
 
-\### Frontend
+\
+### Frontend
 
 ```bash
 
@@ -121,7 +129,8 @@ npm test -- --run
 
 
 
-\## Pipeline CI/CD
+\
+## Pipeline CI/CD
 
 
 
